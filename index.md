@@ -15,3 +15,5 @@ Alle Rezepte sind mit Fotos illustriert, damit jeder weiß, wie es aussehen soll
 * Einkochen und Marmeladen
 * Fotos & Marmeladen-Etiketten
 
+> Es muß nicht immer Schnitzel sein.
+
