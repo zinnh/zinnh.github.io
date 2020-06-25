@@ -17,5 +17,5 @@ Alle Rezepte sind mit Fotos illustriert, damit jeder weiß, wie es aussehen soll
 
 > Es muß nicht immer Schnitzel sein.
 
-&lt;img src="https://zinnh.github.io/images/Bratapfeltorte2.jpg"/&gt;
+<img src="zinnh.github.io/images/Bratapfeltorte2.jpg"/>
 Foto: ACHAZ4
